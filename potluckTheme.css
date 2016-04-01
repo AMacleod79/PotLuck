@@ -1,0 +1,63 @@
+body {
+    background-image: url(potluckBackground.png);
+    background-size: 1000px 800px;
+    background-repeat: no-repeat;
+}
+
+
+#container.style{
+    border:5px solid darkgrey;
+    padding: 300px;
+    width: 500px;
+    height:300px;
+}
+
+/* div pot placement*/
+#Logos {
+    padding: 20px;
+}
+
+#imagelogo{
+    padding:10px;
+
+
+}
+#textLogo{
+    padding:10px;
+
+
+}
+
+
+
+/*div buttonbit placement*/
+#buttonBit{
+
+    width: 55%;
+    height: 40%;
+    padding: 20px;
+}
+
+#blurb{
+    background-color: lightgray;
+    padding:10px;
+    border-radius: 5px;
+
+}
+
+/*div textinput*/
+
+#textinput {
+    padding: 10px;
+    width: 100%;
+    height: 20%;
+}
+#ingredient{
+    padding:10px;
+    width:300px;
+    height:auto;
+}
+
+
+
+
